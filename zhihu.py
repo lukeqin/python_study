@@ -16,7 +16,7 @@ class MysqlHhlper(object):
     def __init__(self):
         self.__Host = 'localhost'
         self.__User = 'root'
-        self.__Passwd = 'db'
+        self.__Passwd = 'xx'
         self.__Db = 'zhihu'
 
     def __Conn(self):

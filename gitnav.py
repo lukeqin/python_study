@@ -7,7 +7,7 @@ Created on 2017年3月11日
 from gittle import Gittle
 
 repo_path = r'E:\date\dev\mygit\tmp'
-repo_url = 'git@192.168.9.9:/data/git/ratel.git'
+repo_url = 'git@x.x.x.x:/data/git/ratel.git'
 #repo = Gittle.clone(repo_url, repo_path)
 
 '''

@@ -134,3 +134,6 @@ echofilter(input, output, delay=0.7, atten=4)
 
 
 # import * from package
+# set github contributions
+# git config --local user.name "luke"
+# git config --local user.email "qinluluke@gmail.com"

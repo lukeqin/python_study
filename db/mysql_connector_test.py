@@ -3,13 +3,13 @@
 # @Time : 2020/04/12 15:36
 # @Email : lukeqinlu@yeah.net
 # @Author : Luke
-# @File : demo_mysql_test.py
+# @File : mysql_connector_test.py
 # @notice ：
 
 
-import mysql.connector
+import db.connector
 
-mydb = mysql.connector.connect(
+mydb = db.connector.connect(
     host="ip",  # 数据库主机地址
     user="dev",  # 数据库用户名
     passwd="",  # 数据库密码
